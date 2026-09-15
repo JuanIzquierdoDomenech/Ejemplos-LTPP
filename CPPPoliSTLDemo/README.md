@@ -1,0 +1,6 @@
+# CPPPoliSTLDemo
+
+```bash
+make
+./main
+```
