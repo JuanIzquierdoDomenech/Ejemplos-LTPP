@@ -1,0 +1,6 @@
+main
+main-debug
+.ccls-cache/
+*.o
+*.out
+*.exe
