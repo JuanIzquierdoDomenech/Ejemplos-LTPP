@@ -4,3 +4,5 @@ main-debug
 *.o
 *.out
 *.exe
+
+.DS_Store
