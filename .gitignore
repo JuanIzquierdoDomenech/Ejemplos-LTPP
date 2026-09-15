@@ -1,3 +1,4 @@
+# C/C++
 main
 main-debug
 .ccls-cache/
@@ -7,6 +8,12 @@ main-debug
 *.dSYM/
 .ccls-cache/
 
+# Java
 *.class
 
+# Python
+__pycache__/
+*.pyc
+
+# MacOS
 .DS_Store
