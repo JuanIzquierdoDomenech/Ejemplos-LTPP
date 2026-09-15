@@ -1,0 +1,6 @@
+# CPPClassModifierPublic
+
+```bash
+make
+./main
+```
