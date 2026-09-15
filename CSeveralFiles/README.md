@@ -1,0 +1,4 @@
+# CSeveralFiles
+
+make
+./main
