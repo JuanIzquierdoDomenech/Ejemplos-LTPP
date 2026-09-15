@@ -1,0 +1,6 @@
+# CPPComposition
+
+```bash
+make
+./main
+```
