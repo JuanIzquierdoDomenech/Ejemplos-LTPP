@@ -1,0 +1,6 @@
+# CPPDebuggingClasses
+
+```bash
+make
+./main
+```
