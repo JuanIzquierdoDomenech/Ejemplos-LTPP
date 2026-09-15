@@ -7,5 +7,6 @@ main-debug
 *.dSYM/
 .ccls-cache/
 
+*.class
 
 .DS_Store
