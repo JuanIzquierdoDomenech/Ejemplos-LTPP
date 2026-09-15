@@ -1,6 +1,6 @@
 # CSeveralFiles
 
-​```bash
+```bash
 make
 ./main
-​```
+```
