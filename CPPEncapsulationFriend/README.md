@@ -1,0 +1,6 @@
+# CPPEncapsulationFriend
+
+```bash
+make
+./main
+```
