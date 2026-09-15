@@ -1,0 +1,6 @@
+# CPPNamespaces
+
+```bash
+make
+./main
+```
