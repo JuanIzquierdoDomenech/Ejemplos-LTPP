@@ -1,4 +1,6 @@
 # CSeveralFiles
 
+​```bash
 make
 ./main
+​```
