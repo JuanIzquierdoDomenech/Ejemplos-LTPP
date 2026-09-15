@@ -1,0 +1,6 @@
+# CPPMultipleInheritanceDebugging
+
+```bash
+make
+./main
+```
