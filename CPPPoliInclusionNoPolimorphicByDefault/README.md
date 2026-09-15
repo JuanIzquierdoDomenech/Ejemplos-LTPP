@@ -1,0 +1,6 @@
+# CPPPoliInclusionNoPolimorphicByDefault
+
+```bash
+make
+./main
+```
