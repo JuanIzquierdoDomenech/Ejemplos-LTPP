@@ -1,0 +1,6 @@
+# CPPAggregation
+
+```bash
+make
+./main
+```
