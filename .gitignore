@@ -4,5 +4,8 @@ main-debug
 *.o
 *.out
 *.exe
+*.dSYM/
+.ccls-cache/
+
 
 .DS_Store
