@@ -3,7 +3,8 @@
 #include "headers/Square.h"
 #include <iostream>
 
-int main() {
+int main()
+{
 	Shape s = Shape();
 	s.draw();
 

@@ -3,7 +3,8 @@
 
 #include "Shape.h"
 
-class Square : public Shape {
+class Square : public Shape
+{
 public:
 	float size = 123;
 	Square();

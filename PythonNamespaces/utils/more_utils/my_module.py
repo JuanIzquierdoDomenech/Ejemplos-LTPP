@@ -5,7 +5,7 @@ print(f"{__name__} importado!")
 
 class MyClass:
     def my_func(self):
-        print('mi funcion dentro del modulo')
+        print("mi funcion dentro del modulo")
 
 
 def give_me_5() -> int:

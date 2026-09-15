@@ -3,7 +3,8 @@
 
 #include <string>
 
-class Point {
+class Point
+{
 private:
 	int x;
 	int y;

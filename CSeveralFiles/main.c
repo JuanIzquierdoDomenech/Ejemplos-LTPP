@@ -13,7 +13,8 @@
 #include "person.h"
 
 // ./main user_name
-int main(int argc, char **argv) {
+int main(int argc, char **argv)
+{
 
   printf("BEGIN\n");
 

@@ -1,9 +1,14 @@
 #ifndef PERSON_H
 #define PERSON_H
 
-enum gender { Male, Female };
+enum gender
+{
+  Male,
+  Female
+};
 
-struct person {
+struct person
+{
   char *name;
   int age;
   enum gender gen;

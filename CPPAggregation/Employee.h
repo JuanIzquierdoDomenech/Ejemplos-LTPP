@@ -5,7 +5,8 @@
 
 class Address; // Forward decl.
 
-class Employee {
+class Employee
+{
 private:
 	std::string name;
 	Address &address;

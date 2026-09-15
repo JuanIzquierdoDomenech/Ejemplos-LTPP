@@ -2,12 +2,13 @@
 #include "Employee.h"
 #include <iostream>
 
-int main() {
+int main()
+{
 	Address addr{"Plaza Ferrandiz y Carbonell S/N", "Alcoy"};
 
 	{
-    Employee emp{"Pedro Pedro Pe", addr}; 
-  }
+		Employee emp{"Pedro Pedro Pe", addr};
+	}
 
 	std::cout << "Dirección todavía existe: " << addr.street << "\n";
 

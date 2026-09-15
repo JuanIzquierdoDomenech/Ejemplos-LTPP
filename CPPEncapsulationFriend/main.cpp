@@ -2,7 +2,8 @@
 #include "BankManager.h"
 #include <iostream>
 
-int main() {
+int main()
+{
 	bank::BankClient me{999.0};
 	bank::BankManager myManager{100.0};
 

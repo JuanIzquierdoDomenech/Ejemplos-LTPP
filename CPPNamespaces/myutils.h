@@ -1,13 +1,15 @@
 #ifndef CPP_TESTS_MYUTILS_H
 #define CPP_TESTS_MYUTILS_H
 
-namespace myutils {
+namespace myutils
+{
   void fff();
-  
-  class Calculator {
+
+  class Calculator
+  {
   public:
-  	int sum(int, int);
-  	int sub(int, int);
+    int sum(int, int);
+    int sub(int, int);
   };
 } // namespace myutils
 

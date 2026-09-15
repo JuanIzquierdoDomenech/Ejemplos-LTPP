@@ -3,10 +3,12 @@
 
 #include <string>
 
-namespace magic {
-  struct Spell {
-  	std::string name;
-  	float power;
+namespace magic
+{
+  struct Spell
+  {
+    std::string name;
+    float power;
   };
 } // namespace magic
 

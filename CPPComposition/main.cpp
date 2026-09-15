@@ -1,7 +1,8 @@
 #include "Monster.h"
 #include <iostream>
 
-int main() {
+int main()
+{
 	Monster *m1 = new Monster{"Basilisco"};
 
 	m1->print();

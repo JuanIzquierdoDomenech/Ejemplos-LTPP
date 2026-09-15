@@ -5,7 +5,8 @@
 
 class Point; // Forward decl.
 
-class Monster {
+class Monster
+{
 private:
 	std::string name;
 	Point *position;

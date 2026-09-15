@@ -3,7 +3,8 @@
 
 #include <string>
 
-class Address {
+class Address
+{
 public:
 	std::string street;
 	std::string city;

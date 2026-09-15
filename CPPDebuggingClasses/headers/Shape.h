@@ -1,7 +1,8 @@
 #ifndef SHAPE_H
 #define SHAPE_H
 
-class Shape {
+class Shape
+{
 protected:
 	int id = 0;
 
