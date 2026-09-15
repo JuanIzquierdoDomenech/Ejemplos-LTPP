@@ -6,7 +6,8 @@
 #include "Flyable.h"
 #include "Quackable.h"
 
-class Duck : public Flyable, public Quackable {
+class Duck : public Flyable, public Quackable
+{
 private:
   std::string name;
 

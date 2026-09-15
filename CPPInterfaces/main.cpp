@@ -3,7 +3,8 @@
 #include "Duck.h"
 // #include "Flyable.h"
 
-int main() {
+int main()
+{
   Duck *donald = new Duck{"Donald"};
   donald->fly();
   donald->quack();

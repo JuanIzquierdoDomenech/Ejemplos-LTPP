@@ -4,10 +4,11 @@
 #include "BankAccount.h"
 
 class ClientAccount
-    : public BankAccount { // Heredamos de la clase abstracta BankAccount
+    : public BankAccount
+{ // Heredamos de la clase abstracta BankAccount
 
 public:
-  ClientAccount(double balance) : BankAccount(balance){};
+  ClientAccount(double balance) : BankAccount(balance) {};
 
   // Métodos que sobreescribe esta clase derivada
   double getBalance() override;

@@ -1,7 +1,8 @@
 #ifndef CPP_TESTS_BANKACCOUNT_H
 #define CPP_TESTS_BANKACCOUNT_H
 
-class BankAccount {
+class BankAccount
+{
 protected:
   double balance;
 
@@ -14,7 +15,7 @@ public:
   virtual double getBalance() = 0;
   virtual void setBalance(double balance) = 0;
 
-  virtual ~BankAccount() = default; 
+  virtual ~BankAccount() = default;
   // Por regla general, si ponemos un método virtual en una clase padre, haz el destructor virtual (polimorfismo)
 };
 

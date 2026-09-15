@@ -2,7 +2,8 @@
 #define CPP_INTERFACES_FLYABLE_H
 
 // Clase abstracta pura
-class Flyable {
+class Flyable
+{
 public:
   virtual ~Flyable() =
       default; // Por norma general, siempre añadimos (polimorfismo)

@@ -2,7 +2,8 @@
 #define CPP_INTERFACES_QUACKABLE_H
 
 // Clase abstracta pura
-class Quackable {
+class Quackable
+{
 public:
   virtual ~Quackable() =
       default; // Por norma general, siempre añadimos (polimorfismo)

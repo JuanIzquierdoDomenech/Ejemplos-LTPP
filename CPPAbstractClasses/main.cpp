@@ -3,7 +3,8 @@
 #include <iostream>
 #include <memory>
 
-int main() {
+int main()
+{
   ClientAccount *cc1 = new ClientAccount{0};
   cc1->setBalance(1200.5);
   std::cout << "Mi cuenta bancaria tiene " << cc1->getBalance() << " Euretes\n";
@@ -14,7 +15,7 @@ int main() {
   std::cout << "Tu cuenta bancaria tiene " << cc2.getBalance() << " Euretes\n";
 
   // BankAccount bc{2}; // error: variable type 'BankAccount' is an abstract class
-  
+
   // But we can do this... and automatically released
   // std::unique_ptr<BankAccount> anotherClient =
   //     std::make_unique<ClientAccount>(100.0);
