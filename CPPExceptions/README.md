@@ -1,0 +1,6 @@
+# CPPExceptions
+
+```bash
+make
+./main
+```
