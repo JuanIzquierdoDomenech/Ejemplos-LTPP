@@ -1,4 +1,4 @@
-# JavaExerciseCircleOverload
+# JavaExerciseCircle
 
 ```bash
 javac $(find . -name "*.java")
